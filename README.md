@@ -1,7 +1,7 @@
 
 # eKanban Workflow Automation
 
-This project is a database-backed simulation that supports and tests a simple electronic Kanban solution for a manufacturer that builds fog lamp assemblies for automobiles. The goal of the solution is to automate the workflow and minimize the time it takes to assemble the fog lamps.
+This project is a database-backed simulation of a Kanban-based workflow for a fog lamp assembly process. It includes a database schema, stored procedures, triggers, views, and functions to support the simulation, as well as three C# programs: one to simulate a workstation, one to display a graphic representation of a single workstation, and one to display the status of the entire assembly line.
 
 ##  Disclaimer
 The project available in this repository is an academic project and is not intended to be publicly available since it is related to academic coursework, and there is a potential for academic misconduct if it is used improperly. Therefore, only a video recording of the project is available for viewing.
