@@ -20,8 +20,7 @@ By accessing the video recording of this project, you acknowledge and agree that
 - Windows operating system
 - Visual Studio IDE installed
 - .NET Framework 4.7.2 or later installed
-- SQL Server database with COVID-19 data
-- COVID-19 data in a .csv file format
+- SQL Server database
 
 ## Run Locally
 	1. Clone the repository to your local machine
